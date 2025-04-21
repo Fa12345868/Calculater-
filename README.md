@@ -29,4 +29,4 @@ Enter decimal numbers (.)
 3. Run the Calculator.java file
 
 
-Made with BY : Fatma Badawy .
+Made BY : Fatma Badawy .
